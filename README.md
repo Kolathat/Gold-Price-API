@@ -15,3 +15,6 @@ Technologies Used
 - Requests
 - SQLite3
 - Matplotlib
+
+
+<img width="1765" alt="image" src="https://github.com/user-attachments/assets/f0dbbc7b-8135-4f32-903f-4cd28375bcf7" />
